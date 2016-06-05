@@ -8,6 +8,8 @@ Study groups are open to anyone who wants to learn. You can join one of our ongo
 
 ## Past study groups
 
+- None yet. 
+
 ## References
 
 - [Free Code Camp](https://www.freecodecamp.com) | [Gitter](https://gitter.im/freecodecamp/freecodecamp)
